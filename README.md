@@ -1,6 +1,6 @@
 evil-mad/menorah
 
-========== <b>Software for LED Hanukkah Menorahs</b> ==========  
+========== <b>Software for LED Hanukkah Menorah kits</b> ==========  
 <i>by</i>  
 Evil Mad Scientist Laboratories, www.evilmadscientist.com
 
@@ -8,43 +8,41 @@ There are three separate codebases, for three separate (but related) projects in
 
 
 
-<b>deluxemenorah</b>  
-=== Firmware for the Deluxe LED Menorah Kit ===
+=== Directory: <b>deluxemenorah</b> ===  
+<i>Firmware for the Deluxe LED Menorah Kit</i>
 
-
-Announcement article:  
+Kit Announcement article:  
 http://www.evilmadscientist.com/go/menorah
 
-Docs:  
+Kit Docs:  
 http://wiki.evilmadscientist.com/Deluxe_Electronic_Breadboard_Menorah_Kit
 
-Kit page (purchase link):  
+Kit Store Page (purchase link):  
 http://shop.evilmadscientist.com/productsmenu/tinykitlist/44-menorah
 
 
 
-<b>breadboard</b>  
-=== Firmware for the Deluxe Electronic Breadboard Menorah Kit ===
+=== Directory: <b> breadboard </b> ===  
+<i>Firmware for the Deluxe Electronic Breadboard Menorah Kit</i>
 
-Announcement article:  
+Kit Announcement article:  
 http://www.evilmadscientist.com/2013/menorahs/
 
-Docs:   
+Kit Docs:   
 http://wiki.evilmadscientist.com/Deluxe_Electronic_Breadboard_Menorah_Kit
 
-Kit page (purchase link):  
+Kit Store Page (purchase link):  
 http://shop.evilmadscientist.com/component/content/article/672
 
 
-<b>mini</b>  
+=== Directory: <b>mini</b> ===  
+<i>Firmware for the (older) LED Mini Menorah Kit</i>
 
-=== Firmware for the LED Mini Menorah Kit ===
-
-Announcement article:  
+Kit Announcement article:  
 http://www.evilmadscientist.com/2006/how-to-make-high-tech-led-decorations-for-the-holidays/
 
-Docs:  
+Kit Docs:  
 http://www.evilmadscientist.com/2006/holiday-electronics-projects-technical-details-and-reference-data/
 
-Kit page (purchase link):  
+Kit Store Page (purchase link):  
 http://shop.evilmadscientist.com/productsmenu/sekritkitmenu/155-minimen
