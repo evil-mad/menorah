@@ -1,5 +1,3 @@
-evil-mad/menorah
-
 ========== <b>Software for LED Hanukkah Menorah kits</b> ==========  
 <i>by</i>  
 Evil Mad Scientist Laboratories, www.evilmadscientist.com
